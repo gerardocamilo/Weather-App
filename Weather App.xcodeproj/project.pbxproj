@@ -13,6 +13,7 @@
 		82BC68661A09BB920044976F /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 82BC68651A09BB920044976F /* Images.xcassets */; };
 		82BC68691A09BB920044976F /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 82BC68671A09BB920044976F /* LaunchScreen.xib */; };
 		82BC68751A09BB920044976F /* Weather_AppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 82BC68741A09BB920044976F /* Weather_AppTests.swift */; };
+		82BC687F1A09BBB40044976F /* background.png in Resources */ = {isa = PBXBuildFile; fileRef = 82BC687E1A09BBB40044976F /* background.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		82BC686E1A09BB920044976F /* Weather AppTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Weather AppTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		82BC68731A09BB920044976F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		82BC68741A09BB920044976F /* Weather_AppTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Weather_AppTests.swift; sourceTree = "<group>"; };
+		82BC687E1A09BBB40044976F /* background.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = background.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +79,7 @@
 		82BC685B1A09BB920044976F /* Weather App */ = {
 			isa = PBXGroup;
 			children = (
+				82BC687E1A09BBB40044976F /* background.png */,
 				82BC685E1A09BB920044976F /* AppDelegate.swift */,
 				82BC68601A09BB920044976F /* ViewController.swift */,
 				82BC68621A09BB920044976F /* Main.storyboard */,
@@ -193,6 +196,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				82BC68641A09BB920044976F /* Main.storyboard in Resources */,
+				82BC687F1A09BBB40044976F /* background.png in Resources */,
 				82BC68691A09BB920044976F /* LaunchScreen.xib in Resources */,
 				82BC68661A09BB920044976F /* Images.xcassets in Resources */,
 			);
